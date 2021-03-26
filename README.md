@@ -10,13 +10,13 @@
 
 主页：https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html
 
-我的笔记：./李宏毅机器学习.md
+我的笔记：[note](./李宏毅机器学习.md)
 
 作业地址：
 
 - hw1：预测COVID-19人数的`线性回归`模型
 
-  - code：./hw/hw1hw1.ipynb
+  - code：[hw1](./hw/hw1hw1.ipynb)
 
   - public score：截至日期3天前【medium baseline】
 
@@ -26,7 +26,7 @@
 
 - hw2：音频分类模型
 
-  - code：./hw/hw2hw2.ipynb
+  - code：[hw2](./hw/hw2hw2.ipynb)
 
   - public score：截至日期10天前【simple baseline】
 
