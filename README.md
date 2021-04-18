@@ -24,6 +24,8 @@
 
   - private score：
 
+    ![image-20210328101524785](https://yumytest.oss-cn-chengdu.aliyuncs.com/img/image-20210328101524785.png)
+
 - hw2：音频分类模型
 
   - code：[hw2](./hw/hw2hw2.ipynb)
@@ -34,14 +36,60 @@
 
   - private score：
 
+    ![image-20210405171734542](https://yumytest.oss-cn-chengdu.aliyuncs.com/img/image-20210405171734542.png)
+
 - hw3：
 
+  - code：[hw3](./hw/hw3hw3.ipynb)
+
+  - public score：截至日期1天前【medium baseline】
+
+    ![image-20210416165537162](https://yumytest.oss-cn-chengdu.aliyuncs.com/img/image-20210416165537162.png)
+
+  - private score：
+
+    ![image-20210417001646181](https://yumytest.oss-cn-chengdu.aliyuncs.com/img/image-20210417001646181.png)
+    
+    
+
+- hw4：（太忙基本没时间搞辣）
+
+  - code：[hw4](./hw/hw4hw4.ipynb)
+  
+  - public score：（截至时间几分钟后才训练好提交。。没来得及上榜。。看了一下大约在892名）【simple baseline】
+  
+    ![image-20210417001838892](https://yumytest.oss-cn-chengdu.aliyuncs.com/img/image-20210417001838892.png)
+  
+  - private score：
+  
+    ![image-20210417001806459](https://yumytest.oss-cn-chengdu.aliyuncs.com/img/image-20210417001806459.png)
+  
+- hw5：
+
   - code：
   - public score：
   - private score：
 
-- hw4：
+- hw6：
 
   - code：
   - public score：
   - private score：
+- hw7：
+
+  - code：
+  - public score：
+  - private score：
+- hw8：
+
+  - code：
+  - public score：
+  - private score：
+
+
+
+
+
+---
+
+> 作业ps：只有第一个作业是在我笔记本上能跑的（无独显）。。。第二个在台式机上勉强，后面的基本转到colab了。。还买了一个月的pro心疼。。。
