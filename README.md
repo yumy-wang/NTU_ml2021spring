@@ -77,12 +77,18 @@
   - private score：
 - hw7：
 
-  - code：
-  - public score：
+  - code：[hw7](./hw/hw7hw7.ipynb)
+  
+  - public score：【medium baseline】
+  
+    
+  
   - private score：
+  
+    
 - hw8：
 
-  - code：
+  - code：[hw8](./hw/hw8hw8.ipynb)
   - public score：
   - private score：
 
@@ -92,4 +98,4 @@
 
 ---
 
-> 作业ps：只有第一个作业是在我笔记本上能跑的（无独显）。。。第二个在台式机上勉强，后面的基本转到colab了。。还买了一个月的pro心疼。。。
+> 作业ps：只有第一个作业是在我笔记本上能跑的（无独显）。。。第二个在台式机上勉强，后面的基本转到colab了。。还买了2个月的pro心疼。。。
